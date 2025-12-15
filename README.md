@@ -7,16 +7,16 @@
 ---
 
 ## 🛠️ Tools Used
-- 🐍 **Python (Jupyter Notebook)**
-- 📗 **Microsoft Excel**
-- 📊 **Microsoft Power BI**
-- 📄 **Google Docs**
+-  **Python (Jupyter Notebook)**
+-  **Microsoft Excel**
+-  **Microsoft Power BI**
+-  **Google Docs**
 
 **Date:** November 2025  
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Executive Summary](#1-executive-summary)
 - [Data Collection and Preparation](#2-data-collection-and-preparation)
   - [2.1 Data Sources](#21-data-sources)
@@ -132,7 +132,7 @@ Two major modeling blocks were implemented:
 
 ---
 
-### 1️⃣ Profitability Simulation Model
+### 1️ Profitability Simulation Model
 
 This model computes, **per state**:
 
@@ -147,7 +147,7 @@ The target profit was fixed at **₦1,000,000,000**, and the required plantation
 ``math
 \text{Hectares Needed} =
 \frac{₦1,000,000,000}{\text{Profit per hectare}}
-### 2️⃣ Financial Viability Model (NPV & IRR)
+### 2️ Financial Viability Model (NPV & IRR)
 
 - 20-year cashflow model  
 - Yield ramp-up from **0% → 100% by Year 5**  
@@ -239,7 +239,7 @@ All visuals update dynamically with slider adjustments.
 
 ## 6. Results and Key Findings
 
-### 1️⃣ Edo State
+### 1️ Edo State
 
 - Mature yield: **≈ 8 t/ha**
 - Avg rainfall: **≈ 2,490 mm**
@@ -250,7 +250,7 @@ All visuals update dynamically with slider adjustments.
 
 ---
 
-### 2️⃣ Akwa Ibom & Delta
+### 2️ Akwa Ibom & Delta
 
 - Profit per ha: **₦4–5 million**
 - High rainfall (**1,871–2,487 mm**)
@@ -259,14 +259,14 @@ All visuals update dynamically with slider adjustments.
 
 ---
 
-### 3️⃣ Cross River & Ondo
+### 3️ Cross River & Ondo
 
 - Lower yields and rainfall  
 - Positive but thin ROI margins  
 
 ---
 
-### 4️⃣ Scenario Sensitivity
+### 4️ Scenario Sensitivity
 
 - **Optimistic:** Profit increases ≈ 25%  
 - **Conservative:** ROI drops below 10%  
