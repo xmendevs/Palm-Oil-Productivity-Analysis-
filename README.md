@@ -163,6 +163,9 @@ States meeting both conditions were classified as **investment-viable**.
 
 ## 4. Power BI Interactive Simulator Design
 
+<img width="494" height="225" alt="Screenshot 2025-11-12 173325" src="https://github.com/user-attachments/assets/f9dd48df-3623-4a2d-8dec-a371196bba66" />
+
+
 ### 4.1 Data Import
 
 **Merged Dataset:**  
